@@ -9,7 +9,7 @@ load_dotenv()
 
 API_ID = 24372903
 API_HASH = "2ba7e85cc0f785f07d6d7296b398ce07"
-BOT_TOKEN = "@MOON_LIGHT_MUSIC_ROBOT"
+BOT_TOKEN = "8075352313:AAFiqMdRCVuvSetzPVKYYQj1poanB2iz7Sw"
 MONGO_DB_URI = "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOGGER_ID = -1002186797409
